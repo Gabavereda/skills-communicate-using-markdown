@@ -1,5 +1,11 @@
 # Heres a header! 
 
+<i>Heres a List</i>
+
+- [x] got a photo?
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
@@ -28,3 +34,6 @@ i add a header
         });
     </script>
 ```
+
+
+
